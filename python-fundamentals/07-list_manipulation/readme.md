@@ -9,7 +9,7 @@ Examples
 
 ```py
 l = [1, 2, 3]
-list_manipulation(l, "remove", "end" # 3)
+list_manipulation(l, "remove", "end") # 3
 l # [1, 2]
 list_manipulation(l, "remove", "beginning") # 1
 l # [2]

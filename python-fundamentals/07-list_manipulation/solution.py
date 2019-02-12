@@ -14,3 +14,4 @@ def list_manipulation(lst, command, location, value=None):
         elif location == "end":
             lst.append(value)
             return lst
+# NOTE: if you want to prepend something there is no .prepend, use insert and specify 0 as the index.

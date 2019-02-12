@@ -13,3 +13,6 @@ is_palindrome('amanaplanacanalpanama') # True
 # BONUS
 
 is_palindrome('A man a plan a canal Panama') # True
+
+
+a man a plan a canal panama
